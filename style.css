@@ -1,0 +1,36 @@
+body
+{
+	ackground-color: #E8E6E6;
+}
+h1
+{
+	text-fill-color:black;
+	-webkit-test-fill-color:black;
+	color: pink;
+	font-familly: caastellar;
+	text-align: centre;
+}
+
+
+a:link
+{
+	color: white;
+	text-decoration: none;
+}
+a:visited
+{
+	color:white;
+	text-decoration: none;
+}
+/*a:hover
+{
+	transform:perspective(320px) translateZ(50px);
+}*/
+
+
+.main
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
