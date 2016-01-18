@@ -343,3 +343,136 @@ td.tabobr{
 	background-color: #FF0006;
 }
 
+/*Liga polska*/
+
+
+
+
+
+
+
+#opisyliga
+{
+	width: 680;
+	float: left;
+}
+.opisliga
+{
+	float: left;
+	width: 664px;
+	padding: 10px;
+	background-color: rgba(168,181,176,0.1);
+	border-radius:5px;
+	font-family: 'Play', sans-serif;
+	font-size: 23px;
+	line-height: 30px;
+}
+#tabelaligax
+{
+	float: right;
+	width: 270px;
+	
+}
+
+#tabelaliga
+{
+	border-collapse:collapse;
+	margin-left: 8px;
+	margin-right: 36px;
+	float: right;
+	width: 270px;
+	background-color: rgba(168,181,176,0.1);
+	font-size: 15px;
+	/*background-color: #A8B5B0;*/
+	border:1px solid #000;
+	
+	
+}
+
+.tabpol
+{
+	width: 100%;
+	border-collapse:collapse;
+	
+}
+.lp
+{
+	width: 5%;
+	/*border:1px solid #000;*/
+	font-size: 20px;	
+	text-align: center;
+	
+}
+
+.druzyna
+{
+	/*border:1px solid #000;*/
+	width: 100px;
+}
+
+.stos
+{
+	/*border:1px solid #000;*/
+	font-size: 10px;
+	text-align: center;
+	
+}
+.ratio
+{
+	/*border:1px solid #000;*/
+	color: red;
+	text-align: center;
+	
+}
+.wiersz
+{
+	background-color: rgba(168,181,176,0.5);
+	
+	
+}
+.zddr
+{
+	/*border:1px solid #000;*/
+	transition-duration:1s;
+    -webkit-transition-duration:1s
+}
+.zddr:hover
+{
+	transform: scale(1.95);
+	
+}
+.tabtxt
+{
+	font-family: 'Play', sans-serif;
+	font-size: 26px;
+	text-align: center;
+}
+
+
+#pasek1new
+{
+	float: left;
+	font-size: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 350px;
+	background-color: #FF0006;
+	color: white;
+	padding-left:30px;
+}
+
+#tabnaj
+{
+	background-color: rgba(168,181,176,0.1);
+}
+#opisliga1
+{
+	float: left;
+	width: 664px;
+	padding: 10px;
+	
+	border-radius:5px;
+	font-family: 'Play', sans-serif;
+	font-size: 23px;
+	line-height: 30px;
+}
