@@ -206,3 +206,22 @@ a.wybor15
 	padding-top: 10px;
 	opacity: 0.5;
 }
+
+
+
+/*Historia*/
+
+
+.przycisk
+{
+	
+	color:black;
+	margin: 2px;
+	border-radius:10px;
+	border-style:solid;
+	float: left;
+	width: 150px;
+	text-align: center;
+	font-size: 20px;
+	
+}
