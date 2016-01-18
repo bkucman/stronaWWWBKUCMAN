@@ -476,3 +476,109 @@ td.tabobr{
 	font-size: 23px;
 	line-height: 30px;
 }
+
+
+/*Gortat*/
+
+
+#opisMG
+ {
+	float:left;
+	width: 590px;
+	padding: 2px;
+	background-color: rgba(168,181,176,0.1);
+	border-radius:5px;
+}
+.zdjecieMG
+{
+	text-align: center;
+	background-color: none;
+	transition-duration:2s;
+    -webkit-transition-duration:2s
+}
+.zdjecieMG:hover{
+	
+	transform: scale(1.65);
+}
+.rekMG
+{
+	
+	font-family: 'Play', sans-serif;
+	font-size: 12px;
+	text-align: center;
+	color: white;
+	padding: 2px;
+	word-break:break-all;
+	
+}
+.pasekMG
+{
+	
+	font-size: 15px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	background-color: #FF0006;
+	color: white;
+	text-align: center;
+	font-family: 'Play', sans-serif;
+}
+.tekstMG
+{
+	color: black;
+	text-align: center;
+	float: left;
+	margin-left: 2px;
+	width: 568px;
+	font-family: 'Play', sans-serif;
+	font-size: 22px;
+	line-height: 28px;
+	padding: 10px;
+}
+#reklamaMG
+{
+	margin-left: 8px;
+	margin-right: 36px;
+	float: right;
+	width: 200px;
+	background-color: rgba(168,181,176,0.5);
+}
+
+.opisMG1
+{
+	margin-top: 10px; 
+	float: left;
+	width: 750px;
+	padding: 2px;
+	background-color: rgba(168,181,176,0.1);
+	border-radius: 5px;
+}
+
+#opisMG1film
+{
+	width: 750px;
+	height: 422px;
+	margin-top: 10px; 
+	float: left;
+	padding: 2px;
+	
+}
+#rekordyMG
+{
+	text-align: center;
+	float: left;
+	width: 750px;
+	padding: 10px;
+	border-radius:5px;
+	font-family: 'Play', sans-serif;
+	font-size: 15px; 
+	border:1px solid #000;
+	border-spacing: 6px;
+	/*line-height: 30px;*/
+	
+}
+iframe
+{
+	width: 750px ;
+	height: 422px ;
+	frameborder: 0px;
+}
