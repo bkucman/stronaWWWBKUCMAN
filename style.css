@@ -100,3 +100,98 @@ a.wybor15
 	border-width: 0.5px;
 	border-style: solid;
 }
+.pasek
+{
+	font-size: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 350px;
+	background-color: #FF0006;
+	color: white;
+	padding-left:30px;
+}
+
+#opis
+ {
+	 float:left;
+	width: 640px;
+	height: 112px;
+	padding: 2px;
+	background-color: rgba(168,181,176,0.1);
+	border-radius:5px;
+}
+
+
+.zdjecie 
+{
+	float:left;
+	width:160px;
+	height:112px;
+	background-color: none;
+	transition-duration:2s;
+    -webkit-transition-duration:2s
+}
+.zdjecie:hover{
+	
+	transform: scale(1.15);
+}
+
+.opis1
+ {	
+	margin-top: 10px; 
+	float: left;
+	width: 800px;
+	height: 112px;
+	padding: 2px;
+	background-color: rgba(168,181,176,0.1);
+	border-radius: 5px;
+}
+
+.zdjecie1 {
+	float:left;
+	width:160px;
+	height:152px;
+	background-color: none;
+}
+
+.tekst
+{
+	color: black;
+	text-align: center;
+	float: left;
+	margin-left: 2px;
+	width: 618px;
+	font-family: 'Play', sans-serif;
+	font-size: 22px;
+	line-height: 28px;
+	padding: 10px;
+	transition-duration:1s;
+    -webkit-transition-duration:1s
+}
+
+.tekst:hover
+{
+	transform: scale(1.05);
+}
+	
+}
+#opisy
+{
+	float: left;
+	width: 800px;
+}
+#reklama{
+	margin-left: 8px;
+	margin-right: 36px;
+	float: right;
+	width: 150px;
+	height: 494px;
+	background-color: rgba(168,181,176,0.5);
+}
+
+.rektxt
+{
+	font-family: 'Play', sans-serif;
+	font-size: 26px;
+	line-height: 28px;
+}
