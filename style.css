@@ -582,3 +582,41 @@ iframe
 	height: 422px ;
 	frameborder: 0px;
 }
+
+/* Pozycje */
+
+.pasek1poz
+{
+	float: left;
+	font-size: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 450px;
+	background-color: #FF0006;
+	color: white;
+	padding-left:30px;
+	
+}	
+
+li.lispoz
+{
+
+
+	list-style-type:  disc;
+	text-align: left;
+
+}
+
+.opishis11
+{
+	
+	float:left;
+	width: 940px;
+	padding: 10px;
+	background-color: rgba(168,181,176,0.1);
+	border-radius:5px;
+	font-family: 'Play', sans-serif;
+	font-size: 23px;
+	line-height: 30px;
+}
+
