@@ -620,3 +620,39 @@ li.lispoz
 	line-height: 30px;
 }
 
+
+
+/*sedzia*/
+
+.tekstS
+{
+	color: black;
+	
+	float: left;
+	margin-left: 2px;
+	width: 568px;
+	font-family: 'Play', sans-serif;
+	font-size: 22px;
+	line-height: 28px;
+	padding: 10px;
+}
+
+#opisS
+ {
+	float:left;
+	margin-left: 6px;
+	width: 633px;
+	padding: 2px;
+	background-color: rgba(168,181,176,0.1);
+	border-radius:5px;
+}
+
+#reklamaS
+{
+	margin-left: 8px;
+	margin-right: 36px;
+	float: right;
+	width: 150px;
+	
+	
+}
